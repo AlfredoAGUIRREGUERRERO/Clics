@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Clics</string>
+    <string name="saludo">¡¡Saludar!!</string>
+    <string name="hola_mundo">Hola Diplomado</string>
+</resources>
